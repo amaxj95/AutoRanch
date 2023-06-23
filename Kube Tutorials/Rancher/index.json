@@ -12,7 +12,7 @@
           "verify": "step1/verify.sh"
         },
         {
-          "title": "Delete a pod",
+          "title": "Log in to the container",
           "text": "step2/text.md",
           "verify": "step2/verify.sh"
         }
@@ -22,7 +22,7 @@
       }
     },
     "backend": {
-      "imageid": "kubernetes-kubeadm-2nodes"
+      "imageid": "rancher/rancher"
     }
   }
   
