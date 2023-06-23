@@ -1,0 +1,28 @@
+{
+    "title": "Rancher UI container image tutorial",
+    "description": "Run and learn how to use rancher/rancher container",
+    "details": {
+      "intro": {
+        "text": "intro.md"
+      },
+      "steps": [
+        {
+          "title": "Start the container",
+          "text": "step1/text.md",
+          "verify": "step1/verify.sh"
+        },
+        {
+          "title": "Delete a pod",
+          "text": "step2/text.md",
+          "verify": "step2/verify.sh"
+        }
+      ],
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "backend": {
+      "imageid": "kubernetes-kubeadm-2nodes"
+    }
+  }
+  
