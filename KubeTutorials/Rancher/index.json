@@ -25,4 +25,7 @@
       "imageid": "rancher/rancher"
     }
   }
-  
+  //d95bcd9a5b9e1268227cfb24c1a79622819214682c50ce95322f577fabaeef7f
+//docker logs d95bcd9a5b9e1268227cfb24c1a79622819214682c50ce95322f577fabaeef7f 2>&1 | grep "Bootstrap Password:"
+
+//bdOlnfdCbQZK2s7S//
